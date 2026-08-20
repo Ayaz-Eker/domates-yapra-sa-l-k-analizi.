@@ -73,7 +73,4 @@ Tarayicida `http://localhost:5173` adresini acin.
 - Tailwind CSS
 - Lucide React (Ikonlar)
 
-## 📝 Not
-
-Bu proje simulasyon amacli gelistirilmistir. Gercek gorsel isleme icin ek ML modelleri entegre edilmelidir.
-
+## 
